@@ -2,3 +2,5 @@
 docs/_build/
 docs/build/
 docs/**/*.mo
+venv
+.idea
